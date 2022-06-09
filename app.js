@@ -19,7 +19,7 @@ const app = Vue.createApp({
         if(this.counter == 0){
             this.counter = 0
         }
-        if(this.counter === 14){
+        if(this.counter === 19){
             alert("You success this level")
         }
       }
